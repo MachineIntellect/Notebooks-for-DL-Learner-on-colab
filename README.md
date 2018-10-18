@@ -1,2 +1,2 @@
 # Notebooks-for-DL-Learner-on-colab
-easy to use for everyone.
+Easy to use for everyone. Just pull a notebook file, and run all on Google colab.
